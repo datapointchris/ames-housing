@@ -1,7 +1,7 @@
 # Ames Housing Data and Kaggle Challenge
 ---
 ## *Exploring the Data Science Process*
-
+#### 6/27/2019
 
 ### Table of Contents
 [Problem Statement](#problem-statement)  
@@ -274,7 +274,7 @@ It will be much easier to work with the data for both visualizing and analysis, 
 **Application of model:**
 
 - Whereas I feel this model does a good job of predicting the housing prices based on the data provided in this set, I believe ANY model that is forced to evaluate homes in any area where location is an important factor will perform poorly.
-- Square footage, bathrooms/bedrooms, and overall quality will of course determine the *SalePrice* in relation to other homes, but there would need to be a correction factor for zip code, county, or neighborhood in order to apply the model to other locations.
+- Square footage, bathrooms/bedrooms, and overall quality will of course determine the `*SalePrice*` in relation to other homes, but there would need to be a correction factor for zip code, county, or neighborhood in order to apply the model to other locations.
 
 
 ### What I Learned
