@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "ames_housing"
+version = "1.0.0"
+description = "First ever python project"
+authors = ["Chris Birch <datapointchris@gmail.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.11"
+numpy = "^1.23.1"
+matplotlib = "^3.5.2"
+seaborn = "^0.11.2"
+scikit-learn = "^1.1.2"
+pandas = "^1.4.3"
+
+[tool.poetry.dev-dependencies]
+ipykernel = "^6.15.1"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
